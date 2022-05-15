@@ -1,2 +1,3 @@
-<img scr = "Captura de tela de atividade.png">
+<img scr = "img/Captura de tela de atividade.png">
+
 
