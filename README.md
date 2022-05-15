@@ -1,3 +1,3 @@
-<img scr = "img/Captura de tela de atividade.png">
+	![Avaliação Sprint 2}(/img/Captura de tela de atividade.png)
 
 
